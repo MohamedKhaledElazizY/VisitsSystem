@@ -1,0 +1,26 @@
+.register__wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    padding-top: 30px;
+}
+.degree{
+    width: 100%;
+    padding-bottom: 3rem;
+}
+.degree label{
+    margin-top: 1rem;
+    font-family: 'Tajawal';
+    font-size: 1.2rem ;
+    color: rgba(46, 45, 45, 0.705);
+}
+
+
+.p-checkbox
+.p-checkbox-box{
+    height: 1.6rem;
+    margin-top: -0.3rem;
+}

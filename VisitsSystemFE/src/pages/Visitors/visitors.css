@@ -1,0 +1,34 @@
+.vistors_container{
+    display: grid;
+    grid-template-columns: 18% 5% 80%;
+    padding-top: 2rem;
+    padding-right: 1rem;
+}
+
+.input_area div{
+    padding: 2px;
+}
+
+.drop__down{
+    margin-bottom: 2rem;
+}
+
+
+.save__btn{
+    margin-top: 5px;
+}
+
+.p-datatable .p-datatable-tbody > tr > td {
+    text-align: right;
+}
+
+.input_area{
+    max-width: fit-content;
+}
+
+.table_area{
+    max-width: fit-content;
+}
+
+
+

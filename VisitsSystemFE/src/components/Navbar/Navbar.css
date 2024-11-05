@@ -1,0 +1,48 @@
+.p-menubar{
+    background: var(--color-nav);
+    color: azure;
+}
+
+.p-menu {
+    width: 100%;
+    
+}
+
+.p-menu-list {
+    display: flex;
+    flex-direction: row;
+}
+
+.p-menuitem-icon,
+.p-menuitem {
+    font-weight: bold;
+}
+
+.p-menuitem-icon {
+    margin-left: 0.5rem;
+}
+
+.p-menubar-start a {
+    display: grid;
+    grid-template-columns: 21% 79%;
+}
+
+.prog__title {
+    font-weight: 600;
+    font-size: larger;
+    color: #205E61;
+    text-align: center;
+}
+
+.p-button span {
+    padding: 0px 7px 5px 0px;
+}
+
+.p-submenu-list {
+    z-index: 2;
+}
+
+.right_header{
+    border-left: 2px solid #205E61;
+}
+

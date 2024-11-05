@@ -1,0 +1,5 @@
+.home__container img {
+    position: absolute;
+    top: calc(50% - 3rem);
+    left: calc(50% - 3rem);
+}

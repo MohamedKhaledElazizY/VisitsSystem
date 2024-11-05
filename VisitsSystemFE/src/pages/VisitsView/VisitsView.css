@@ -1,0 +1,44 @@
+.p-dropdown-filter {
+  margin-right: 0 !important;
+}
+
+.p-datepicker {
+  direction: ltr;
+}
+
+.direction__ltr {
+  direction: ltr;
+}
+
+.dropdown__image {
+  margin-left: 1rem;
+  width: 18px;
+}
+
+.dropdown__image--selected {
+  width: 14px;
+}
+
+.arrived__row {
+  background-color: white !important;
+}
+
+.entered__row {
+  background-color: green !important;
+  color: white !important;
+}
+
+.wait__row {
+  background-color: yellow !important;
+  color: black !important;
+}
+
+.canceled__row {
+  background-color: red !important;
+  color: white !important;
+}
+
+.postponed__row {
+  background-color: red !important;
+  color: white !important;
+}
